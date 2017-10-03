@@ -1,0 +1,53 @@
+
+.toplogo{
+    height : 100%;
+} 
+
+.nav-margin-bottom{
+    margin-bottom:0px !important;
+}
+
+
+/* change the background color */
+.navbar-custom {
+    background-color: #2f3ba1 !important;
+}
+/* change the brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: rgba(255,255,255,.8);
+}
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+    color: rgba(255,255,255,.5);
+}
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #ffffff !important;
+}
+.nav > li > a:hover, .nav > li > a:focus {
+    background-color: #191e80;
+    text-decoration: none;
+  }
+  .navbar-nav > li >a{
+    color:grey;
+  }
+  .navbar-nav > li >a:hover{
+    color:white;
+  }
+
+//    //.dropdown {list-style: none; background: green; padding: 10px; display: inline-block;}
+//    .dropdown .nav-link {color:#fff; text-decoration: none;}
+//   .dropdown .dropdown-menu a{color: #000; text-decoration: none;}
+// //   .dropdown .btn {background: green; color:#fff;}
+// //   .dropdown .btn:hover {background: cyan; color:#000;}
+// //   .dropdown .btn:active {background: cyan; color:#000;}
+// //   .dropdown .btn:focus {background: cyan; color:#000;}
+//    .dropdown-menu .dropdown-item {display: inline-block; width: 100%; padding: 10px 5px;}
+// //   .container .dropdown .dropdown-menu a:hover
+// //   {
+// //     color: #fff;
+// //     background-color: #b91773;
+// //     border-color: #fff;
+// //   }
