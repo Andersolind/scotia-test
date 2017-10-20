@@ -3,8 +3,24 @@ background-color:#7884cd !important;
 }
 
 .h2-padding-bottom{
-    padding-bottom: 30px;
+    padding-bottom: 30px;  
+    
 }
-.container h1{
+.padding-top{
+    padding-top: 70px;
+}
+.p-white{
     color:white;
+    font-weight: lighter;
+    font-size:12px;
+    padding-bottom:30px;
+}
+.h1-color-white{
+    color:white;
+    font-weight: 300;
+}
+#header-container {  
+    height:33px;
+    width:100%;
+    margin: 0 auto; 
 }
